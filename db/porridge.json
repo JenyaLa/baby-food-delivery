@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ps01",
+    "name": "Рисовая",
+    "description": "Молочная без сахара",
+    "price": 1.5,
+    "image": "img/porridge/porridge-2.png"
+  },
+  {
+    "id": "ps02",
+    "name": "Овсянная",
+    "description": "Молочная без сахара",
+    "price": 1.4,
+    "image": "img/porridge/porridge-3.png"
+  },
+  {
+    "id": "ps03",
+    "name": "Кукурузная",
+    "description": "Молочная без сахара",
+    "price": 1.7,
+    "image": "img/porridge/porridge-4.png"
+  },
+  {
+    "id": "ps04",
+    "name": "Кукурузно-овсянная",
+    "description": "Молочная без сахара",
+    "price": 2.2,
+    "image": "img/porridge/porridge-5.png"
+  },
+  {
+    "id": "ps05",
+    "name": "Кречневая с яблоком",
+    "description": "Молочная без сахара",
+    "price": 2,
+    "image": "img/porridge/porridge-6.png"
+  },
+  {
+    "id": "ps06",
+    "name": "Пшенная",
+    "description": "Молочная без сахара",
+    "price": 1.4,
+    "image": "img/porridge/porridge-7.png"
+  }
+]

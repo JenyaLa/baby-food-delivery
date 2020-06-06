@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tn01",
+    "name": "Цыпленок",
+    "description": "Без добавления соли, крахмала, сахара",
+    "price": 1,
+    "image": "img/myaso/myaso1.png"
+  },
+  {
+    "id": "tn02",
+    "name": "Кролик",
+    "description":"Без добавления соли, крахмала, сахара",
+    "price": 2.1,
+    "image": "img/myaso/myaso2.png"
+  },
+  {
+    "id": "tn03",
+    "name": "Свинина",
+    "description": "Без добавления соли, крахмала, сахара",
+    "price": 1.6,
+    "image": "img/myaso/myaso3.png"
+  },
+  {
+    "id": "tn04",
+    "name": "Говядина с печенью",
+    "description": "Без добавления соли, крахмала, сахара",
+    "price": 2.6,
+    "image": "img/myaso/myaso4.png"
+  },
+  {
+    "id": "tn05",
+    "name": "Говядина",
+    "description": "Без добавления соли, крахмала, сахара",
+    "price": 2.2,
+    "image": "img/myaso/myaso5.png"
+  },
+  {
+    "id": "tn06",
+    "name": "Индейка",
+    "description": "Без добавления соли, крахмала, сахара",
+    "price": 2.8,
+    "image": "img/myaso/myaso6.png"
+  }
+]

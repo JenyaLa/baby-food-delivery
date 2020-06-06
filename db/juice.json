@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gl01",
+    "name": "Яблочный сок",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 0.7,
+    "image": "img/juice/juice-1.png"
+  },
+  {
+    "id": "gl02",
+    "name": "Яблочно-грушевый",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 0.8,
+    "image": "img/juice/juice-2.png"
+  },
+  {
+    "id": "gl03",
+    "name": "Яблочно-абрикосовый",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 0.9,
+    "image": "img/juice/juice-3.png"
+  },
+  {
+    "id": "gl04",
+    "name": "Яблочно-черничный",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 0.9,
+    "image": "img/juice/juice-4.png"
+  },
+  {
+    "id": "gl05",
+    "name": "Яблочно-вишневый",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 1.1,
+    "image": "img/juice/juice-5.png"
+  },
+  {
+    "id": "gl06",
+    "name": "Ябллшочно-шиповниковый",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 1.3,
+    "image": "img/juice/juice-6.png"
+  },
+  {
+    "id": "gl07",
+    "name": "Яблочно-виноградный",
+    "description":"Натуральный сок без добавления сахара",
+    "price": 1,
+    "image": "img/juice/juice-7.png"
+  },
+  {
+    "id": "gl08",
+    "name": "Банановый",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 1.1,
+    "image": "img/juice/juice-8.png"
+  },
+  {
+    "id": "gl09",
+    "name": "Мульти-фруктовый",
+    "description": "Натуральный сок без добавления сахара",
+    "price": 1.2,
+    "image": "img/juice/juice-9.png"
+  }
+]

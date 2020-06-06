@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fb01",
+    "name": "Чернослив",
+    "description": "Без добавления соли, сахара и крахмала",
+    "price": 0.8,
+    "image": "img/frukt/frukt1.png"
+  },
+  {
+    "id": "fb02",
+    "name": "Персик",
+    "description": "Без добавления соли, сахара и крахмала",
+    "price": 0.8,
+    "image": "img/frukt/frukt2.png"
+  },
+  {
+    "id": "fb03",
+    "name": "Слива",
+    "description": "Без добавления соли, сахара и крахмала",
+    "price": 0.7,
+    "image": "img/frukt/frukt3.png"
+  },
+  {
+    "id": "fb04",
+    "name": "Груша",
+    "description": "Без добавления соли, сахара и крахмала",
+    "price": 0.6,
+    "image": "img/frukt/frukt4.png"
+  },
+  {
+    "id": "fb05",
+    "name": "Яблоко с грушей",
+    "description": "Без добавления соли, сахара и крахмала",
+    "price": 0.6,
+    "image": "img/frukt/frukt5.png"
+  },
+  {
+    "id": "fb06",
+    "name": "Банан",
+    "description": "Без добавления соли, сахара и крахмала",
+    "price": 0.9,
+    "image": "img/frukt/frukt6.png"
+  }
+]

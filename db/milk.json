@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pb01",
+    "name": "Био йогурт",
+    "description": "Из натурального молока. 3% жирности",
+    "price": 2.3,
+    "image": "img/milk/milk-2.png"
+  },
+  {
+    "id": "pb02",
+    "name": "Творог зерненый",
+    "description": "Со вкусом клубники",
+    "price": 1.4,
+    "image": "img/milk/milk-3.png"
+  },
+  {
+    "id": "pb03",
+    "name": "Творог зерненый",
+    "description": "Со вкусом черники",
+    "price": 1.4,
+    "image": "img/milk/milk-4.png"
+  },
+  {
+    "id": "pb04",
+    "name": "Творог зерненый",
+    "description": "Со вкусом вишни",
+    "price": 1.4,
+    "image": "img/milk/milk-5.png"
+  },
+  {
+    "id": "pb05",
+    "name": "Масло",
+    "description": "72.5% жирности",
+    "price": 2.8,
+    "image": "img/milk/milk-6.png"
+  },
+  {
+    "id": "pb06",
+    "name": "Масло",
+    "description": "82.5% жирности",
+    "price": 3.2,
+    "image": "img/milk/milk-7.png"
+  }
+]

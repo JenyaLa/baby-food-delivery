@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pp01",
+    "name": "Кабачок",
+    "description": "Без добавления: крахмала, сахара, соли.",
+    "price": 0.9,
+    "image": "img/ovov/ovov1.png"
+  },
+  {
+    "id": "pp02",
+    "name": "Цветная капуста",
+    "description": "Без добавления: консервантов, крахмала и соли.",
+    "price": 0.8,
+    "image": "img/ovov/ovov2.png"
+  },
+  {
+    "id": "pp03",
+    "name": "Морковь",
+    "description": "Без добавления: консервантов, крахмала и соли.",
+    "price": 0.7,
+    "image": "img/ovov/ovov3.png"
+  },
+  {
+    "id": "pp04",
+    "name": "Брокколи",
+    "description": "Без добавления: консервантов, крахмала и соли.",
+    "price": 0.9,
+    "image": "img/ovov/ovov4.png"
+  },
+  {
+    "id": "pp05",
+    "name": "Тыква",
+    "description": "Без добавления: консервантов, крахмала и соли.",
+    "price": 0.7,
+    "image": "img/ovov/ovov5.png"
+  },
+  {
+    "id": "pp06",
+    "name": "Овощное ассорти",
+    "description": "Без добавления сахара.",
+    "price": 1.1,
+    "image": "img/ovov/ovov6.png"
+  }
+]

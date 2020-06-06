@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Овощное пюре",
+    "time_of_delivery": 50,
+    "stars": 4.5,
+    "price": 0.6,
+    "kitchen": "Овощи, фрукты, мясо, рыба",
+    "image": "img/ovov/ovov7.png",
+    "products": "pure.json"
+  },
+  {
+    "name": "Мясное пюре",
+    "time_of_delivery": 60,
+    "stars": 4.8,
+    "price": 1,
+    "kitchen": "Пюре из мяса",
+    "image": "img/myaso/myaso7.png",
+    "products": "myaso.json"
+  },
+  {
+    "name": "Фруктовое пюре",
+    "time_of_delivery": 40,
+    "stars": 4.4,
+    "price": 0.6,
+    "kitchen": "На десерт",
+    "image": "img/frukt/frukt7.png",
+    "products": "frukt.json"
+  },
+  {
+    "name": "Каши",
+    "time_of_delivery": 55,
+    "stars": 4.1,
+    "price": 1.4,
+    "kitchen": "Злаковые каши",
+    "image": "img/porridge/porridge-1.png",
+    "products": "porridge.json"
+  },
+  {
+    "name": "Соки",
+    "time_of_delivery": 75,
+    "stars": 4.3,
+    "price": 0.7,
+    "kitchen": "Фруктовые соки",
+    "image": "img/juice/juice-7.png",
+    "products": "juice.json"
+  },
+  {
+    "name": "Молочная продукция",
+    "time_of_delivery": 45,
+    "stars": 4.6,
+    "price": 1.4,
+    "kitchen": "Молоко, творог, масло",
+    "image": "img/milk/milk-1.png",
+    "products": "milk.json"
+  }
+]
